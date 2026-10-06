@@ -269,8 +269,6 @@ Working on software engineering and product development for financial analytics 
 
 </div>
 
-> Certification names and verification links can be added here when the exact credentials are available.
-
 ---
 
 ## Coding Profiles
@@ -299,8 +297,6 @@ Working on software engineering and product development for financial analytics 
 
 ## GitHub Analytics
 
-> All metrics below are generated from **GitHub data for `DhruvHarani1`**. No statistics are manually entered.
-
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhruvHarani1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&include_all_commits=true" />
@@ -327,8 +323,6 @@ Working on software engineering and product development for financial analytics 
 
 </div>
 
-> GitHub's public contribution graph is the source of truth for contribution activity. GitHub determines which commits, pull requests, issues, reviews, discussions, and repositories count toward that graph. citeturn0search4turn0search7
-
 ---
 
 ## GitHub Trophies
@@ -345,7 +339,7 @@ Working on software engineering and product development for financial analytics 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvHarani1&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&custom_title=Dhruv%20Harani%20%E2%80%94%20Contribution%20Activity" width="100%" />
+<img src="https://ghchart.rshah.org/6D28D9/DhruvHarani1" alt="Contribution Activity" width="100%" />
 
 </div>
 
@@ -355,7 +349,7 @@ Working on software engineering and product development for financial analytics 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DhruvHarani1/DhruvHarani1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/DhruvHarani1/DhruvHarani1/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
