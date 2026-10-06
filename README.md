@@ -1,404 +1,416 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0617,45:312E81,75:6D28D9,100:8B5CF6&height=190&section=header&text=Dhruv%20Harani&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=61&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0617,45:312E81,75:6D28D9,100:8B5CF6&height=240&section=header&text=Dhruv&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Full%20Stack%20%7C%20Product%20Engineering&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;Software+Engineer+%7C+AI+Engineer;Full-Stack+Developer+%7C+Product+Builder;Building+Practical+%26+Scalable+Systems;Turning+Ideas+Into+Real+Products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI+%2F+ML+Engineer;Full+Stack+%7C+Product+Engineering;Building+Practical+AI-Powered+Systems;Turning+Data+into+Decisions;Engineering+Ideas+into+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-Focused-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-6366F1?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Gujarat-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Engineering-Student-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-Focused-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/India-Gujarat-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://www.dhruvharani.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/DhruvHarani1">
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/dhruv-harani/">
-<img src="https://img.shields.io/badge/LINKEDIN-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:dhruvharani.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/DhruvHarani1">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DhruvHarani1&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/DhruvHarani1?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github"/>
-<img src="https://img.shields.io/github/stars/DhruvHarani1?label=STARS&style=for-the-badge&color=6366F1&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=DhruvHarani1&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/DhruvHarani1?label=FOLLOWERS&style=flat-square&color=4F46E5&logo=github"/>
+<img src="https://img.shields.io/github/stars/DhruvHarani1?label=STARS&style=flat-square&color=8B5CF6&logo=github"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm **Dhruv Harani**, a Computer Engineering student and software developer interested in building useful, reliable and scalable software.
+<div align="center">
 
-My primary interests include **software engineering, full-stack development, artificial intelligence, automation and product engineering**.
+**Software engineer focused on production-grade AI systems, full-stack products, automation, and data-driven applications.**
 
-I enjoy taking an idea from concept to implementation — designing the architecture, building the product, integrating APIs and services, debugging edge cases and continuously improving the experience.
+</div>
 
-### What I Care About
+I'm a **Computer Engineering student at Nirma University** and a **Software Engineering Intern at FloIndex Ventures LLP (Clarityy AI)**, working at the intersection of software engineering, applied AI/ML, data, and product engineering.
 
-- 🧩 **Clean Engineering** — readable, maintainable and modular code
-- ⚡ **Performance** — efficient systems and thoughtful architecture
-- 🔐 **Security** — responsible handling of data, authentication and access
-- 🤖 **AI Engineering** — practical applications of AI and LLMs
-- 🚀 **Product Thinking** — solving real problems instead of building for the sake of technology
-- 🛠️ **Automation** — reducing repetitive work through intelligent systems
+I enjoy taking problems from **idea → architecture → implementation → deployment**, with a strong focus on maintainability, correctness, performance, and the experience of the people using the product.
 
-### Currently Exploring
+### Engineering Focus
 
-`Software Engineering` · `AI/ML` · `LLM Applications` · `Full Stack Development` · `Backend Systems` · `Automation` · `Developer Tools`
+- **Software Engineering** — clean architecture, maintainable code, APIs, testing, and reliable services
+- **AI / ML** — machine learning, financial scoring, signal processing, LLM-powered applications, and intelligent automation
+- **Full Stack Development** — data pipelines, backend services, APIs, and responsive interfaces
+- **Data Engineering** — ETL workflows, validation, financial data processing, and analytics
+- **Product Engineering** — starting with the user problem and iterating toward measurable outcomes
 
 ### Open To
 
-`Software Engineering` · `AI/ML` · `Full Stack Development` · `Product Engineering` · `Open Source` · `Technical Collaborations`
+<img src="https://img.shields.io/badge/Software%20Engineering-Open-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Open-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Open-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Collaboration-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-Open-4338CA?style=flat-square"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,sql,bash&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,bash&theme=dark" />
 
 ### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
 
 ### Backend & Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,mongodb,mysql,postgresql,redis&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mysql,mongodb,redis,supabase&theme=dark" />
 
 ### Cloud, DevOps & Tooling
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,postman,vscode&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vercel,postman,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
-| Domain | Proficiency | Focus |
-|:---|:---:|:---|
-| **Generative AI** | 🟣 Advanced | LLM applications, prompting and AI-powered workflows |
-| **LLM Applications** | 🟣 Advanced | AI agents, automation and application integration |
-| **Machine Learning** | 🔵 Intermediate | ML fundamentals and Python-based experimentation |
-| **AI Automation** | 🟣 Advanced | Intelligent workflows and developer automation |
-| **AI Product Engineering** | 🟣 Advanced | Turning AI capabilities into practical products |
-| **Data & Analytics** | 🔵 Intermediate | Data processing, analysis and engineering workflows |
-| **Computer Vision** | 🔵 Exploring | Practical computer-vision applications |
-| **AI-Assisted Development** | 🟣 Advanced | AI-assisted coding, research, debugging and productivity |
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| **Machine Learning** | 🟣 Advanced | Supervised learning, feature engineering, model evaluation, and scoring systems |
+| **Data Engineering** | 🟣 Advanced | ETL pipelines, batch processing, validation, and financial data modelling |
+| **LLM Applications** | 🟣 Advanced | Prompt engineering, structured outputs, retrieval workflows, and agentic applications |
+| **Signal Processing** | 🔵 Intermediate | Time-series analysis, filtering, signals, and systems fundamentals |
+| **Quantitative Finance** | 🔵 Intermediate | Equity fundamentals, portfolio analytics, risk, and financial health indicators |
+| **MLOps** | 🔵 Intermediate | Reproducible pipelines, containerized deployment, and CI/CD for data workflows |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<details>
-<summary><b>LaunchLoop — Product Discovery & Feedback Platform</b></summary>
+<details open>
+<summary><b>Clarityy AI — Portfolio Analytics Platform</b></summary>
 
 <br/>
 
-**LaunchLoop** is a platform designed to help startups and product builders put their products in front of real users and collect meaningful feedback.
+A full-stack portfolio analytics platform focused on giving Indian retail investors deeper visibility into their holdings and portfolio health.
 
 | Category | Details |
-|:---|:---|
-| **Stack** | Full Stack · React · Next.js · Backend APIs · Database · AI |
-| **Focus** | Product discovery · User feedback · Product validation |
-| **Architecture** | Modular full-stack application |
-| **Engineering** | APIs · Authentication · Data workflows · Automation |
-| **Impact** | Helping builders make better product decisions using real user feedback |
-| **Repository** | [GitHub](https://github.com/DhruvHarani1) |
+|:--|:--|
+| **Stack** | Python · TypeScript · React · Next.js · PostgreSQL · REST APIs |
+| **Scale** | Indian retail investment workflows |
+| **Performance** | Analytics-oriented data pipelines and responsive dashboard workflows |
+| **Security** | Authenticated access · input validation · controlled data access |
+| **Impact** | Portfolio analytics and financial intelligence for retail investors |
+| **Repository** | Internal / project-specific repository |
 
-### Engineering Focus
+**Engineering Focus**
 
-- Product discovery workflows
-- User feedback systems
-- Product validation
-- Data-driven decision making
-- Automation
-- Full-stack architecture
+- Portfolio data ingestion
+- Analytics services
+- Financial indicators
+- Full-stack dashboard development
+- Data validation
+- Product-oriented financial tooling
 
 </details>
 
 <details>
-<summary><b>TextIT — Java Application</b></summary>
+<summary><b>Financial Health Index — Nifty 200 Pipeline</b></summary>
 
 <br/>
 
-**TextIT** is a Java-based application built to explore object-oriented programming, application architecture and user interaction workflows.
+A financial analytics pipeline designed to calculate a normalized **Financial Health Index** across companies in the Nifty 200 universe.
 
 | Category | Details |
-|:---|:---|
-| **Stack** | Java · OOP · Data Structures |
-| **Architecture** | Modular Java application |
-| **Focus** | Object-oriented software engineering |
-| **Performance** | Lightweight local execution |
-| **Engineering** | Classes · Objects · Methods · Data Structures |
-| **Repository** | [GitHub](https://github.com/DhruvHarani1) |
+|:--|:--|
+| **Stack** | Python · Pandas · NumPy · SQL · Data Pipelines |
+| **Scale** | Nifty 200 constituents |
+| **Performance** | Automated batch-oriented processing |
+| **Security** | Validated inputs · reproducible processing · controlled data sources |
+| **Impact** | Converts financial fundamentals into comparable company-level health indicators |
+| **Repository** | Internal / project-specific repository |
 
-### Engineering Focus
+**Engineering Focus**
+
+- Financial data processing
+- Feature engineering
+- Normalization
+- Missing-data handling
+- Batch processing
+- Quantitative scoring
+
+</details>
+
+<details>
+<summary><b>Nexus — AI Stock Intelligence</b></summary>
+
+<br/>
+
+An AI-oriented stock research concept focused on bringing quantitative signals, financial data, and narrative intelligence together into a single research workflow.
+
+| Category | Details |
+|:--|:--|
+| **Stack** | Python · TypeScript · React · LLM APIs · PostgreSQL |
+| **Scale** | Indian listed equities |
+| **Performance** | Data refresh and AI query workflows |
+| **Security** | Server-side secret management · rate limiting · controlled prompts |
+| **Impact** | Designed to reduce the friction between raw market data and investment research |
+| **Repository** | Project repository |
+
+**Engineering Focus**
+
+- AI-assisted financial research
+- Quantitative signals
+- LLM integration
+- Structured data
+- Research automation
+- Product-oriented interface design
+
+</details>
+
+<details>
+<summary><b>Java Engineering Projects</b></summary>
+
+<br/>
+
+A collection of Java projects built to strengthen object-oriented programming, application architecture, data structures, and software-engineering fundamentals.
+
+| Project | Focus |
+|:--|:--|
+| **TextIT** | Java · OOP · Application Architecture |
+| **BudgetBuddy** | Expense Management · Data Modelling · OOP |
+| **Eclipsera: The Final Rebellion** | Multiplayer Logic · Game State · OOP |
+
+**Engineering Focus**
 
 - Object-oriented programming
-- Modular architecture
-- Data modelling
-- Application logic
-- Maintainable Java code
-
-</details>
-
-<details>
-<summary><b>BudgetBuddy — Expense Management Application</b></summary>
-
-<br/>
-
-**BudgetBuddy** is a Java application focused on expense tracking, budgeting and personal financial management.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Java · OOP · Data Structures |
-| **Focus** | Expense tracking · Budgeting |
-| **Architecture** | Modular application design |
-| **Performance** | Lightweight local execution |
-| **Engineering** | Data modelling · Application workflows |
-| **Repository** | [GitHub](https://github.com/DhruvHarani1) |
-
-### Engineering Focus
-
-- Expense management
-- Budget workflows
+- Classes and objects
 - Data structures
-- Object-oriented design
 - Application state management
-
-</details>
-
-<details>
-<summary><b>Eclipsera: The Final Rebellion — Multiplayer Java Game</b></summary>
-
-<br/>
-
-**Eclipsera: The Final Rebellion** is a multiplayer Java game built around player interaction, game-state management and rule-based gameplay.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Java · OOP · Game Logic |
-| **Players** | Four-player architecture |
-| **Focus** | Interactive gameplay · State management |
-| **Performance** | Lightweight console execution |
-| **Engineering** | Game logic · Player interaction · Rules |
-| **Repository** | [GitHub](https://github.com/DhruvHarani1) |
-
-### Engineering Focus
-
-- Game-state management
-- Player interactions
-- Rule-based systems
-- Object-oriented architecture
-- Interactive command processing
+- Modular design
+- Interactive software systems
 
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Software Engineering & Product Development
+### Software Engineering Intern — FloIndex Ventures LLP (Clarityy AI)
 
-**FloIndex Ventures LLP**  
 `2026 — Present`
 
-Working on software and product-oriented engineering tasks involving applications, datasets, automation and technical workflows.
+Working on software engineering and product development for financial analytics and portfolio intelligence.
 
-### Scope
+### Scope of Work
 
-- Building and improving software workflows
-- Working with structured datasets
-- Developing application functionality
-- Exploring AI-assisted engineering workflows
-- Working across frontend and backend technologies
-- Debugging and improving existing systems
-- Translating requirements into technical implementations
-- Exploring automation opportunities
+- Develop full-stack functionality across data ingestion, analytics services, and frontend interfaces
+- Work on the Financial Health Index pipeline for Nifty 200 companies
+- Build and improve data processing and validation workflows
+- Translate product requirements into technical implementations
+- Work with financial datasets and analytics pipelines
+- Explore AI-assisted workflows for financial research and product automation
+- Collaborate on architecture, debugging, testing, and iterative delivery
 
-**Core Skills**
+### Technologies
 
-`Java` `Python` `JavaScript` `React` `Backend` `AI` `Automation` `Data` `Product Engineering`
+<img src="https://img.shields.io/badge/Python-4F46E5?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-6D28D9?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-312E81?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=flat-square"/>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| 🚀 **Product Builder** | Building and experimenting with software products |
-| 🧠 **AI Engineering** | Exploring practical AI, LLM and automation applications |
-| 💻 **Software Projects** | Developed multiple Java, full-stack and engineering projects |
-| 🏗️ **Startup Building** | Working on product ideas focused on real-world problems |
-| ⚡ **Engineering Projects** | Hands-on experience across software, automation and development |
+|:--|:--|
+| **State-Level Hackathon** | Participated in a state-level hackathon with a software project |
+| **Product Building** | Building and experimenting with software products and startup ideas |
+| **AI Engineering** | Developing practical applications around AI, LLMs, automation, and data |
+| **Engineering Projects** | Hands-on work across Java, full-stack development, data, and AI |
 
 </div>
 
 ---
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Engineering-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Java%20%26%20Database-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Engineering-6366F1?style=for-the-badge&logo=nptel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Networking-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Engineering-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Java%20%26%20Database-6D28D9?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Engineering-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco-Networking-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
+> Certification names and verification links can be added here when the exact credentials are available.
+
 ---
 
-## 🧩 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4338CA?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
+
+> All metrics below are generated from **GitHub data for `DhruvHarani1`**. No statistics are manually entered.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvHarani1&show_icons=true&hide_border=true&bg_color=0B0617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DhruvHarani1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9&include_all_commits=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvHarani1&theme=transparent&hide_border=true&background=0B0617&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" height="180"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvHarani1&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=C9D1D9" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvHarani1&layout=compact&hide_border=true&bg_color=0B0617&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvHarani1&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" />
+
+</div>
+
+### Live Repository Highlights
+
+<div align="center">
+
+<a href="https://github.com/DhruvHarani1/Eclipsera-The-Final-Rebellion">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvHarani1&repo=Eclipsera-The-Final-Rebellion&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/DhruvHarani1/TextITV1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvHarani1&repo=TextITV1&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=C9D1D9" />
+</a>
+
+</div>
+
+> GitHub's public contribution graph is the source of truth for contribution activity. GitHub determines which commits, pull requests, issues, reviews, discussions, and repositories count toward that graph. citeturn0search4turn0search7
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvHarani1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DhruvHarani1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvHarani1&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=C4B5FD&area=true&area_color=4F46E5&hide_border=true&custom_title=Dhruv%20Harani%20%E2%80%94%20Contribution%20Activity" width="100%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvHarani1&bg_color=0B0617&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Dhruv%20Harani%20%E2%80%94%20Contribution%20Activity" width="100%"/>
+<img src="https://raw.githubusercontent.com/DhruvHarani1/DhruvHarani1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DhruvHarani1/DhruvHarani1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
-current_focus:
+Learning:
+  - Production LLM systems and evaluation
+  - Advanced software engineering
+  - Data structures and algorithms
+  - System design
+  - Financial data engineering
 
-  Learning:
-    - Advanced Java
-    - Software Engineering
-    - Data Structures & Algorithms
-    - AI / ML Engineering
-    - Large Language Models
-    - System Design
+Building:
+  - Portfolio analytics systems
+  - Financial Health Index workflows
+  - AI-powered developer workflows
+  - Full-stack applications
+  - Automation systems
 
-  Building:
-    - LaunchLoop
-    - AI-powered developer workflows
-    - Full-stack applications
-    - Automation systems
-    - Developer tools
+Exploring:
+  - Agentic AI workflows
+  - AI-assisted financial research
+  - Intelligent automation
+  - Scalable backend architecture
+  - Product engineering
+  - Open source
 
-  Exploring:
-    - AI Agents
-    - LLM Applications
-    - Intelligent Automation
-    - Scalable Backend Architecture
-    - Product Engineering
-    - Open Source
-
-  Open_To:
-    - Software Engineering
-    - AI / ML
-    - Full Stack Development
-    - Product Engineering
-    - Open Source
-    - Technical Collaborations
+Open_To:
+  - Software engineering opportunities
+  - AI / ML engineering
+  - Full-stack development
+  - Product-minded engineering teams
+  - Open source collaboration
+  - Technical collaborations
 ```
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
 <a href="mailto:dhruvharani.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhruv-harani/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DhruvHarani1">
-<img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.dhruvharani.com">
-<img src="https://img.shields.io/badge/Portfolio-Explore-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -407,10 +419,10 @@ current_focus:
 
 <div align="center">
 
-### *"Build with purpose. Engineer with precision. Ship what matters."*
+*Ship with rigor. Build with empathy. Measure what matters.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:6D28D9,75:312E81,100:0B0617&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,45:6D28D9,75:312E81,100:0B0617&height=140&section=footer&animation=fadeIn" width="100%" />
 
 </div>
